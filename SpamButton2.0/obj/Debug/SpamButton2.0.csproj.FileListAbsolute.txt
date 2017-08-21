@@ -1,0 +1,38 @@
+c:\users\bradley\documents\visual studio 2015\Projects\SpamButton2.0\SpamButton2.0\bin\Debug\SpamButton2.0.dll
+c:\users\bradley\documents\visual studio 2015\Projects\SpamButton2.0\SpamButton2.0\bin\Debug\SpamButton2.0.pdb
+c:\users\bradley\documents\visual studio 2015\Projects\SpamButton2.0\SpamButton2.0\bin\Debug\SpamButton2.0.dll.manifest
+c:\users\bradley\documents\visual studio 2015\Projects\SpamButton2.0\SpamButton2.0\bin\Debug\SpamButton2.0.vsto
+c:\users\bradley\documents\visual studio 2015\Projects\SpamButton2.0\SpamButton2.0\bin\Debug\Microsoft.Office.Tools.Common.dll
+c:\users\bradley\documents\visual studio 2015\Projects\SpamButton2.0\SpamButton2.0\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\users\bradley\documents\visual studio 2015\Projects\SpamButton2.0\SpamButton2.0\bin\Debug\Microsoft.Office.Tools.dll
+c:\users\bradley\documents\visual studio 2015\Projects\SpamButton2.0\SpamButton2.0\bin\Debug\Microsoft.Office.Tools.Outlook.dll
+c:\users\bradley\documents\visual studio 2015\Projects\SpamButton2.0\SpamButton2.0\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+c:\users\bradley\documents\visual studio 2015\Projects\SpamButton2.0\SpamButton2.0\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+c:\users\bradley\documents\visual studio 2015\Projects\SpamButton2.0\SpamButton2.0\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+c:\users\bradley\documents\visual studio 2015\Projects\SpamButton2.0\SpamButton2.0\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.xml
+c:\users\bradley\documents\visual studio 2015\Projects\SpamButton2.0\SpamButton2.0\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.xml
+c:\users\bradley\documents\visual studio 2015\Projects\SpamButton2.0\SpamButton2.0\bin\Debug\Microsoft.Office.Tools.Common.xml
+c:\users\bradley\documents\visual studio 2015\Projects\SpamButton2.0\SpamButton2.0\bin\Debug\Microsoft.Office.Tools.Outlook.xml
+c:\users\bradley\documents\visual studio 2015\Projects\SpamButton2.0\SpamButton2.0\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+c:\users\bradley\documents\visual studio 2015\Projects\SpamButton2.0\SpamButton2.0\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+c:\users\bradley\documents\visual studio 2015\Projects\SpamButton2.0\SpamButton2.0\obj\Debug\SpamButton2.0.csprojResolveAssemblyReference.cache
+c:\users\bradley\documents\visual studio 2015\Projects\SpamButton2.0\SpamButton2.0\obj\Debug\SpamButton2._0.Properties.Resources.resources
+c:\users\bradley\documents\visual studio 2015\Projects\SpamButton2.0\SpamButton2.0\obj\Debug\SpamButton2.0.csproj.GenerateResource.Cache
+c:\users\bradley\documents\visual studio 2015\Projects\SpamButton2.0\SpamButton2.0\obj\Debug\SpamButton2.0.dll
+c:\users\bradley\documents\visual studio 2015\Projects\SpamButton2.0\SpamButton2.0\obj\Debug\SpamButton2.0.pdb
+C:\Users\BFB\Desktop\SpamButton2.0\SpamButton2.0\SpamButton2.0\bin\Debug\SpamButton2.0.dll
+C:\Users\BFB\Desktop\SpamButton2.0\SpamButton2.0\SpamButton2.0\bin\Debug\SpamButton2.0.pdb
+C:\Users\BFB\Desktop\SpamButton2.0\SpamButton2.0\SpamButton2.0\bin\Debug\SpamButton2.0.dll.manifest
+C:\Users\BFB\Desktop\SpamButton2.0\SpamButton2.0\SpamButton2.0\bin\Debug\SpamButton2.0.vsto
+C:\Users\BFB\Desktop\SpamButton2.0\SpamButton2.0\SpamButton2.0\bin\Debug\Microsoft.Office.Tools.Common.dll
+C:\Users\BFB\Desktop\SpamButton2.0\SpamButton2.0\SpamButton2.0\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\BFB\Desktop\SpamButton2.0\SpamButton2.0\SpamButton2.0\bin\Debug\Microsoft.Office.Tools.dll
+C:\Users\BFB\Desktop\SpamButton2.0\SpamButton2.0\SpamButton2.0\bin\Debug\Microsoft.Office.Tools.Outlook.dll
+C:\Users\BFB\Desktop\SpamButton2.0\SpamButton2.0\SpamButton2.0\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Users\BFB\Desktop\SpamButton2.0\SpamButton2.0\SpamButton2.0\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+C:\Users\BFB\Desktop\SpamButton2.0\SpamButton2.0\SpamButton2.0\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+C:\Users\BFB\Desktop\SpamButton2.0\SpamButton2.0\SpamButton2.0\obj\Debug\SpamButton2.0.csprojResolveAssemblyReference.cache
+C:\Users\BFB\Desktop\SpamButton2.0\SpamButton2.0\SpamButton2.0\obj\Debug\SpamButton2._0.Properties.Resources.resources
+C:\Users\BFB\Desktop\SpamButton2.0\SpamButton2.0\SpamButton2.0\obj\Debug\SpamButton2.0.csproj.GenerateResource.Cache
+C:\Users\BFB\Desktop\SpamButton2.0\SpamButton2.0\SpamButton2.0\obj\Debug\SpamButton2.0.dll
+C:\Users\BFB\Desktop\SpamButton2.0\SpamButton2.0\SpamButton2.0\obj\Debug\SpamButton2.0.pdb

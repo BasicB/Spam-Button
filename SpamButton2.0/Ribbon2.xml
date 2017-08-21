@@ -1,0 +1,16 @@
+﻿<customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui" onLoad="RibbonOnLoad">
+  <ribbon>
+    <tabs>
+      <tab idMso="TabMail" >
+        <group id="Raytheon_Foreground">
+          <button id="MyBtn" label="Spam" size="large" onAction="OnSpamClick" imageMso="QueryDelete"/>
+        </group>
+      </tab>
+      <tab idMso="TabReadMessage">
+        <group id="Raytheon_Foreground2" insertBeforeMso="GroupClipboard">
+          <button id="MyBtn2" label="Spam" size="large" onAction="OnSpamClick" imageMso="QueryDelete"/>
+        </group>
+      </tab>
+    </tabs>
+  </ribbon>
+</customUI>
